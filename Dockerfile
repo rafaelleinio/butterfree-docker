@@ -1,4 +1,4 @@
-FROM rafaelleinio:docker-java-python
+FROM rafaelleinio/docker-java-python
 
 RUN pip install --upgrade pip
 
