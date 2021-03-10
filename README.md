@@ -1,6 +1,6 @@
-[![Build Status](https://img.shields.io/docker/automated/rappdw/docker-java-python.svg)](https://hub.docker.com/r/rappdw/docker-java-python/)
+[![Build Status](https://img.shields.io/docker/automated/rafaelleinio/butterfree.svg)](https://hub.docker.com/r/rafaelleinio/butterfree/)
 
-# docker-java-python
-Combines zulu jdk 8 and python 3.7 and JPype1.
+# butterfree-docker
+Python docker image with Butterfree and its depedencies intalled.
 
-Dockerhub: https://hub.docker.com/r/rafaelleinio/docker-java-python
+Dockerhub: https://hub.docker.com/r/rafaelleinio/butterfree
